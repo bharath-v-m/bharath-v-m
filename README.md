@@ -1,7 +1,7 @@
 ## Welcome!
-## This is Bharath Varma Mudunuru, a systems engineer who's passionate about builing tech responsibly for having a positive impact on the world around 👋
+## This is Bharath Varma Mudunuru, a systems engineer who's passionate about building tech responsibly for having a positive impact on the world around 👋
 ## My experiences lie in :
-## 1. Working at the intetegration of hardware (PCB design - 8 layer boards) and developing low level code (firmware)
+## 1. Working at the integration of hardware (PCB design - 8 layer boards) and developing low level code (firmware)
 ## 2. Building Custom Linux distros (Yocto project and build-root)
 ## 3. Automated testing (python and shell)
 ## 4. Internet of things, networking
